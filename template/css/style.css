@@ -3303,7 +3303,9 @@ img {
     margin: 50px auto;
   }
   
-  .invitation-section .invitation-box.left {margin-top:0;}
+  .invitation-section .invitation-box.left {margin-top:0;
+     height: 350px !important;
+  }
   .invitation-section .invitation-box.calendar-box {margin-bottom:0;}
 }
 
